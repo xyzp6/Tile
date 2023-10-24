@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">磁贴</string>
+    <string name="volume_up">音量加</string>
+    <string name="volume_down">音量减</string>
+    <string name="mute">静音</string>
+    <string name="hotspot">热点</string>
+</resources>
